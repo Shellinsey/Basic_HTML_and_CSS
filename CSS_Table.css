@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+}
+table {
+	bodrder: 1px solid silver;
+}
+
+td:hover {
+	background-color: orange;
+	color: black;
+}
+tr,th {
+	background-color: black;
+	color: cornsilk;
+}
+
+tr,th { background-color: darkgreen;
+	color: white;
+}
